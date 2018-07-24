@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "489679736068",
+    "firebase_url": "https://earty-95495.firebaseio.com",
+    "project_id": "earty-95495",
+    "storage_bucket": "earty-95495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489679736068:android:828f5d02561fe866",
+        "android_client_info": {
+          "package_name": "com.imm.eartydriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489679736068-aiqiso6s3msvv8bq0cst6l0p6g787d1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhf83oTAEubw-StWwMaQOFx7HaJljZKgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
